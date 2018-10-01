@@ -1,4 +1,7 @@
 {
+    "scripts": {
+    "start": "node app.js"
+    },
     "title": "Freelancer",
     "name": "startbootstrap-freelancer",
     "version": "4.1.1",
