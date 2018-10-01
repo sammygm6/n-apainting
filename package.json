@@ -4,7 +4,7 @@
   "description": "Website for a company that paints houses",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node freelancer.js"
   },
   "repository": {
     "type": "git",
