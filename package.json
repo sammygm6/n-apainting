@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "title": "Freelancer",
     "name": "startbootstrap-freelancer",
     "version": "4.1.1",
@@ -42,4 +43,23 @@
         "gulp-sass": "4.0.1",
         "gulp-uglify": "3.0.0"
     }
+=======
+  "name": "napainting",
+  "version": "1.0.0",
+  "description": "Website for a company that paints houses",
+  "main": "index.html",
+  "scripts": {
+    "start": "node index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sammygm6/n-apainting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sammygm6/n-apainting/issues"
+  },
+  "homepage": "https://github.com/sammygm6/n-apainting#readme"
+>>>>>>> 872b7f19c1396b95280c8ae649e3a8646b556212
 }
